@@ -1,0 +1,19 @@
+{
+  "name": "gulp04072021",
+  "version": "1.0.0",
+  "description": "gullp installer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leon3854/gulp040721.git"
+  },
+  "author": "Leon3854",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leon3854/gulp040721/issues"
+  },
+  "homepage": "https://github.com/Leon3854/gulp040721#readme"
+}
