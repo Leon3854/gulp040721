@@ -1,0 +1,9 @@
+.test {
+  border: 1px solid tomato;
+  background-color: #fff;
+  transition: all ease .5s;
+  &:hover {
+    background-color: tomato;
+    border: 1px solid orange;
+  }
+}
